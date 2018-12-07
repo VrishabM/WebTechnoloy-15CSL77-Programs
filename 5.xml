@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="5.css"?>
+<STUDENTDATA>
+	<STUDENT>
+		<USN>USN   : 1SC15CS097</USN>
+		<NAME>Name : Vrishab</NAME>
+		<COLLEGE>COLLEGE : SSCE</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR : 2019</YEAR>
+		<EMAIL>EMAIL : vrishab44@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN : 1SC15CS099</USN>
+		<NAME>Name : Poki</NAME>
+		<COLLEGE>COLLEGE : SSCE</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR : 2019</YEAR>
+		<EMAIL>EMAIL : poki@gmail.com</EMAIL>
+	</STUDENT>
+</STUDENTDATA>
